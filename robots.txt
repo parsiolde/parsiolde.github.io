@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://parsiolde.github.io/sitemap
+Sitemap: https://parsiolde.github.io/app/sitemap
+Sitemap: https://parsiolde.github.io/assets/sitemap
+Sitemap: https://parsiolde.github.io/css/sitemap
+Sitemap: https://parsiolde.github.io/includes/sitemap
+Sitemap: https://parsiolde.github.io/item/sitemap
+Sitemap: https://parsiolde.github.io/src/sitemap
